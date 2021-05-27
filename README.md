@@ -1,6 +1,6 @@
 # Minesweeper
 
-This is Minesweeper Game was created as my Project for Intro to Java.
+This is Minesweeper Game was created as my Project for Intro to Java CS9053.
 
 #### Concepts Used
 1. Server/Client Networking
