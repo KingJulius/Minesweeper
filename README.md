@@ -1,14 +1,4 @@
-# Minesweeper
-
-This is Minesweeper Game was created as my Project for Intro to Java CS9053.
-
-#### Concepts Used
-1. Server/Client Networking
-2. Databases (Sqlite3 used)
-3. Threads
-4. GUI
-
-#### Functionality
-  This is a simple Minesweeper Game.
-  Game State can be saved and Loaded.
-  Top 5 Highscores can also be displayed.
+# [Minesweeper Game](https://github.com/KingJulius/Minesweeper) 
+- Built using Java and SQL.
+- Uses several concepts such Server/Client Networking, Databases (Sqlite3 used), Threads and GUI.
+- Functionality: Has a similar gameplay logic as the actual Minewsweeper Game. It also has the ability to start a new instance of a game, to save an instance to the database via a server-client model, opening a saved instance of the game from the database and loading the top five higscores. 
